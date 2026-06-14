@@ -1,0 +1,9 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.project-card:hover {
+  box-shadow:
+    0 0 20px #a855f7,
+    0 0 40px #a855f7;
+}

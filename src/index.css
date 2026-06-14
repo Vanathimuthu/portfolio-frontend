@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+html {
+  scroll-behavior: smooth;
+  background: #000000;
+}
+
+body {
+  min-height: 100vh;
+  margin: 0;
+  background: #000000;
+  color: #ffffff;
+  font-family: Inter, sans-serif;
+}
+
+::selection {
+  background: rgba(236, 72, 153, 0.35);
+  color: #ffffff;
+}
+
+button,
+input,
+textarea {
+  font: inherit;
+}
