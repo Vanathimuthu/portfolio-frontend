@@ -24,7 +24,7 @@ function Hero() {
 
           <div className="mt-10 flex flex-col sm:flex-row items-start sm:items-center gap-4">
             <a
-              href="/vanathi_Resume Junior developer.pdf"
+              href="/vanathi Exp CV.pdf"
               target="_blank"
               rel="noreferrer"
               className="inline-flex items-center justify-center rounded-full bg-gradient-to-r from-pink-500 to-fuchsia-500 px-8 py-3 text-base font-semibold text-white shadow-lg shadow-pink-500/20 hover:opacity-95 transition duration-200"
